@@ -1,6 +1,6 @@
 # Define variables
-name = "PUT YOUR NAME"
-email = 'PUT YOUR EMAIL'
+name = "James karanja"
+email = 'jameskaranja109@gmail.com'
 
 # Print the name and email address
 print("Name:", name)
